@@ -1,5 +1,12 @@
 # Deepfakes
 
+## Configuraciones previas
+
+- [Instalación Miniconda](Instalacion_Miniconda.md)
+- [Entornos Virtuales con Python - Conda](Entornos_Virtuales_con_Python_-_Conda.md)
+
+## Tutoriales
+
 - [01 - Face-swap / Intercambio de rostro](01-Face-swap_Intercambio_de_rostro.md)
 - [02 - Lip-sync / Sincronización labial](02-Lip-sync_Sincronización_labial.md)
 - [03 - Reenactment / Recreaciones](03-Reenactment_Recreaciones.md)
